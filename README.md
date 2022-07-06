@@ -5,6 +5,8 @@
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
 [![tf-models-official PyPI](https://badge.fury.io/py/tf-models-official.svg)](https://badge.fury.io/py/tf-models-official)
 
+# Christian - GHAS Example 
+1. The first step was to turn on code scanning. I achieved this by using the auto-gnerated workflow file to create a scheduled workflow.
 
 # Welcome to the Model Garden for TensorFlow
 
